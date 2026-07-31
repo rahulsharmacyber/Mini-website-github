@@ -265,9 +265,3 @@ There's no fixed rule, but a helpful guideline: avoid booking repeat sessions fo
   </summary>
   <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">An ethical reader presents challenges alongside possibilities and practical guidance, never as fixed, frightening outcomes. If a session ever feels designed to scare you into booking more sessions, that's a sign to look elsewhere.</p>
 </details>
-
-**9. What's the difference between booking a tarot reading and an astrology consultation?**
-Tarot addresses a specific, present-moment question using card symbolism. Astrology uses your birth details to map broader life timing and patterns. They can complement each other well.
-
-**10. Should I be worried about a reading predicting something negative?**
-An ethical reader presents challenges alongside possibilities and practical guidance, never as fixed, frightening outcomes. If a session ever feels designed to scare you into booking more sessions, that's a sign to look elsewhere.
