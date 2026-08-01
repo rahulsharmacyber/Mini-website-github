@@ -6,8 +6,10 @@ date: 2026-08-01
 image: /images/personalized-tarot-reading-online-gurugram.jpg
 category: tarot
 category_label: Tarot Reading
+slug: /personalized-tarot-reading-online-gurugram
 og_title: "Personalized Tarot Reading Online in Gurugram — What to Expect"
 og_description: "A clear, beginner-friendly guide to personalized tarot reading online in Gurugram — how it works, what it can offer, and how to prepare."
+focus_keyword: "Personalized Tarot Reading Online in Gurugram"
 ---
 
 # Personalized Tarot Reading Online in Gurugram: A Beginner's Guide to Understanding Your Cards
