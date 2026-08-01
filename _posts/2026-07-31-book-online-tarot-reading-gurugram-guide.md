@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "How to Book an Online Tarot Reading in Gurugram (Beginner Guide)"
+title: "Book Online Tarot Reading in Gurugram | Beginner's Guide"
 description: "New to tarot? Learn how to book an online tarot reading in Gurugram, what to expect, and how to choose a trustworthy reader. Simple, honest guide."
 date: 2026-07-31
 image: /images/book-online-tarot-reading-gurugram.jpg
 category: tarot
 category_label: Tarot Reading
+slug: /book-online-tarot-reading-gurugram-guide
+og_title: "How to Book an Online Tarot Reading in Gurugram (Beginner Guide)"
+og_description: "Confused about tarot? This guide explains how online tarot readings work, what to expect, and how to book one safely from Gurugram — no jargon, no fear."
+focus_keyword: "Book Online Tarot Reading in Gurugram"
 ---
 
 Have you ever felt stuck on a decision and wished someone could just hand you a little clarity? That's usually the moment people start looking into tarot reading. If you're searching to book an online tarot reading in Gurugram, you're probably not looking for magic. You're looking for a fresh perspective on something that's been on your mind.
