@@ -40,7 +40,7 @@ This is one of the most common points of confusion, so let's clear it up simply.
 | Best for | Specific, immediate questions | Understanding broader life direction |
 | Nature | Reflective and intuitive | Calculated and chart-based |
 
-Neither is "better" than the other. They simply answer different kinds of questions. Some people book both — a Kundli reading for the bigger picture, and a tarot session for something specific happening right now.
+Neither is "better" than the other. They simply answer different kinds of questions. Some people book both — a [Kundli reading] (https://www.miniastrotarot.com/) for the bigger picture, and a tarot session for something specific happening right now.
 
 ## Why People in Gurugram Are Turning to Online Tarot Readings
 
@@ -67,7 +67,7 @@ If you've never done this before, the process is simpler than most people expect
 5. **Interpretation and discussion** – the reader explains what the cards suggest, and you can ask follow-up questions.
 6. **Notes or recording** – many services offer a summary or recording of the session afterward.
 
-A typical session lasts between 30 and 60 minutes, depending on how many questions you bring.
+A typical [session] (https://www.miniastrotarot.com/index.html#courses) lasts between 30 and 60 minutes, depending on how many questions you bring.
 
 ### What You Need Before Your Session
 
@@ -87,7 +87,7 @@ These focus on questions like whether to take a new job offer, how a business de
 People often book these when they're unsure about a relationship's direction, considering a breakup, or wondering how to communicate better with a partner. A good reader will focus on your patterns and choices, not make promises about another person's feelings or actions.
 
 **General Life Guidance Readings**
-These are open-ended sessions for people who don't have one specific question but want a broader check-in on where their life is heading. It's a good starting point if you're new to tarot and just want to see how it feels.
+These are open-ended sessions for people who don't have one specific question but want a broader check-in on where their life is heading. It's a [good starting] (https://en.wikipedia.org/wiki/Wikipedia:A_primer_for_newcomers) point if you're new to tarot and just want to see how it feels.
 
 ## Common Myths About Tarot Reading (Busted)
 
