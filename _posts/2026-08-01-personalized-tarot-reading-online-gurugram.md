@@ -26,7 +26,7 @@ Think of it like the difference between reading a horoscope printed in a newspap
 
 ### How It's Different From a Generic Reading
 
-In a generic or "pick a card" reading, the same three or four cards get interpreted for everyone who selects that number. In a personalized reading, the reader builds a spread — a specific arrangement of cards — around your exact question, whether that's about a career decision, a relationship, or a period of uncertainty you're going through.
+In a generic or "pick a card" reading, the same three or four cards get interpreted for everyone who selects that number. In a personalized reading, the reader builds a spread — a specific [arrangement of cards](https://miniastrotarot.com) — around your exact question, whether that's about a career decision, a relationship, or a period of uncertainty you're going through.
 
 ### Why "Personalized" Matters
 
@@ -55,7 +55,7 @@ A standard tarot deck has 78 cards, split into two groups.
 - **Major Arcana (22 cards):** These represent bigger life themes — things like new beginnings, endings, major choices, or turning points. Cards like The Fool or The Tower fall here.
 - **Minor Arcana (56 cards):** These represent everyday matters — routines, small decisions, day-to-day emotions, and practical situations. They're divided into four suits (similar to a regular card deck), each linked loosely to a different area of life: thoughts, emotions, work/material matters, and action/conflict.
 
-You don't need to memorize any of this before a session. A good reader explains relevant cards as they come up.
+You don't need to memorize any of this before a session. [A good reader](https://miniastrotarot.com) explains relevant cards as they come up.
 
 ### What the Reader Is Actually Doing
 
@@ -79,16 +79,16 @@ Most readers encourage you to reflect on the insights rather than treat them as 
 
 ## Common Myths About Tarot Reading
 
-**Myth:** Tarot can predict exact events with certainty.<br>
-**Reality:** Tarot reflects patterns, energies, and possibilities based on your current path. It's not a fixed prediction machine, and outcomes can shift as your choices and circumstances change.
+**Myth:** Tarot can predict exact events with certainty.
+**Reality:** Tarot reflects patterns, energies, and possibilities based on your current path. It's not a fixed prediction machine, and outcomes can shift as your choices and [circumstances](https://en.wikipedia.org/wiki/Circumstance) change.
 
-**Myth:** Certain cards, like Death or The Tower, mean something terrible will happen.<br>
+**Myth:** Certain cards, like Death or The Tower, mean something terrible will happen.
 **Reality:** These cards usually represent change, endings, or upheaval in a symbolic sense — not literal disaster. The Death card, for instance, often points to the end of one phase and the start of another.
 
-**Myth:** You need to "believe" in tarot for it to work.<br>
+**Myth:** You need to "believe" in tarot for it to work.
 **Reality:** Many people approach tarot simply as a reflective tool, similar to journaling with a guided structure. You don't need a particular belief system to get value from the conversation.
 
-**Myth:** A reading is only useful if it tells you exactly what to do.<br>
+**Myth:** A reading is only useful if it tells you exactly what to do.
 **Reality:** A good reading raises questions and offers perspective. The decision itself still rests with you.
 
 ## What Tarot Can and Cannot Tell You
