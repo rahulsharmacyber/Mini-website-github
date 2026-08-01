@@ -158,76 +158,73 @@ Both are used for guidance and self-awareness rather than fixed prediction, and 
         <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Is online tarot reading as accurate as in-person reading?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">The format doesn't significantly change the quality of insight, since the reading depends on the cards and the conversation, not physical presence. Many people find online sessions equally effective and more convenient.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Yes, the format doesn't change how the cards are interpreted. What matters more is the reader's experience and how clearly you communicate your question, whether you're sitting across from them or on a video call.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">How long does a personalized tarot reading session take?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">How much does an online tarot reading in Gurugram usually cost?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Most sessions run between 30 and 60 minutes, depending on how many questions or areas you want to cover and the complexity of the spread used.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Pricing varies by reader experience and session length, generally ranging from a basic short session to a more detailed, extended consultation. Always confirm pricing before booking to avoid surprises.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Can tarot reading tell me exact dates or events?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Can tarot reading tell me exactly when something will happen?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Tarot generally reflects patterns and possibilities rather than exact dates. Readers who claim precise event predictions with certainty should be approached carefully.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Not precisely. Tarot reflects current patterns and possibilities rather than exact dates. For timing-specific questions, Vedic astrology, which uses your birth chart, is generally more suited.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Do I need to know anything about tarot before my first session?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Do I need to prepare anything before my session?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">No prior knowledge is needed. A good reader explains each card and its relevance to your question as the session unfolds.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Just one or two clear, specific questions and a quiet space to talk. You don't need any prior tarot knowledge.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Is tarot reading connected to religion?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">What if I don't believe in tarot — can I still book a session?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Tarot isn't tied to any specific religion. It's often used as a reflective and symbolic tool, similar to journaling with structured prompts.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Yes. Many people approach it simply as a structured way to think through a problem with an outside perspective, without needing to hold a particular belief system.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">How is tarot different from Vedic astrology?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Is it normal for a reading to feel uncertain or vague at times?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Tarot draws on card symbolism for present-day clarity, while Vedic astrology uses your birth chart to study long-term life patterns and timing.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Some ambiguity is normal, since tarot reflects tendencies, not certainties. A good reader will work with you to relate the cards to your specific situation rather than leaving you with vague statements.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Can I ask about career and relationships in the same session?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Can I ask about someone else during my reading, like my partner or family member?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Yes, though it usually helps to prioritize one main focus area so the reading stays specific and useful rather than too broad.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">You can, but readings are generally most useful when focused on your own choices and actions, since that's what you have direct control over.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">What should I avoid asking a tarot reader?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">How long does an online tarot session usually last?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Avoid framing questions that require a strict yes/no on serious matters like health or legal outcomes — these are better addressed with qualified professionals.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Most sessions run between 30 and 60 minutes, depending on how many questions or topics you want to cover.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">How often should I get a tarot reading?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">What's the difference between booking a tarot reading and an astrology consultation?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">There's no fixed rule. Many people revisit a reading during major transitions rather than on a routine schedule, since repeated readings on the same question can create more confusion than clarity.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Tarot addresses a specific, present-moment question using card symbolism. Astrology uses your birth details to map broader life timing and patterns. They can complement each other well.</p>
     </details>
     <details class="group border-b border-outline-variant/20 py-5">
       <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
-        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Is it normal to feel skeptical about tarot?</h3>
+        <h3 class="font-headline text-lg text-on-surface group-open:text-primary transition-colors">Should I be worried about a reading predicting something negative?</h3>
         <span class="text-primary text-xl">+</span>
       </summary>
-      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">Yes, and a good reader won't pressure you to abandon that skepticism. You can approach the session simply as a structured way to reflect on your situation.</p>
+      <p class="text-on-surface-variant font-light leading-relaxed text-sm mt-4">An ethical reader presents challenges alongside possibilities and practical guidance, never as fixed, frightening outcomes. If a session ever feels designed to scare you into booking more sessions, that's a sign to look elsewhere.</p>
     </details>
   </div>
 </section>
-
-
-
 
 ## Conclusion
 
