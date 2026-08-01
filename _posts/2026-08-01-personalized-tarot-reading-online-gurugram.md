@@ -79,16 +79,16 @@ Most readers encourage you to reflect on the insights rather than treat them as 
 
 ## Common Myths About Tarot Reading
 
-**Myth:** Tarot can predict exact events with certainty.
+**Myth:** Tarot can predict exact events with certainty.<br>
 **Reality:** Tarot reflects patterns, energies, and possibilities based on your current path. It's not a fixed prediction machine, and outcomes can shift as your choices and circumstances change.
 
-**Myth:** Certain cards, like Death or The Tower, mean something terrible will happen.
+**Myth:** Certain cards, like Death or The Tower, mean something terrible will happen.<br>
 **Reality:** These cards usually represent change, endings, or upheaval in a symbolic sense — not literal disaster. The Death card, for instance, often points to the end of one phase and the start of another.
 
-**Myth:** You need to "believe" in tarot for it to work.
+**Myth:** You need to "believe" in tarot for it to work.<br>
 **Reality:** Many people approach tarot simply as a reflective tool, similar to journaling with a guided structure. You don't need a particular belief system to get value from the conversation.
 
-**Myth:** A reading is only useful if it tells you exactly what to do.
+**Myth:** A reading is only useful if it tells you exactly what to do.<br>
 **Reality:** A good reading raises questions and offers perspective. The decision itself still rests with you.
 
 ## What Tarot Can and Cannot Tell You
